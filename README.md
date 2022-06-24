@@ -1,6 +1,9 @@
-# Web-Security
-Web security lessons to help folks understand the importance of secure coding 👩‍💻✨
+# Web Security
 
-XSS Example
-Web Security Solution Part 1
-Web Security Solution Part 2
+<h2 align="left">
+Web security lessons to help folks understand the importance of secure coding 👩‍💻✨
+</h2>
+
+- [XSS Example]()
+- [Web Security Solution Part 1]
+- [Web Security Solution Part 2]
