@@ -5,5 +5,5 @@ Web security lessons to help folks understand the importance of secure coding ðŸ
 </h2>
 
 - [XSS Example]()
-- [Web Security Solution Part 1]
-- [Web Security Solution Part 2]
+- [Web Security Solution Part 1]()
+- [Web Security Solution Part 2]()
