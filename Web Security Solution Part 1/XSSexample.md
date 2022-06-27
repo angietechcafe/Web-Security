@@ -7,6 +7,6 @@
     
 <!--<p> 
   
-  document.getElementById("myText").innerHTML = "My text just changed!";
+  document.getElementById("myText").innerHTML += "My text just changed!";
   
     </p>-->
