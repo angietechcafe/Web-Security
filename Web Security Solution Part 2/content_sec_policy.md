@@ -5,5 +5,5 @@
 <h2> CSP Syntax </h2>
 
 <p> The syntax will look like this: 
-    Content-Security-Policy: policy </p>
+    Content-Security-Policy: policy; </p>
 
