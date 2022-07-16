@@ -7,7 +7,7 @@
     
 <p> 
   <script> 
-    const firstName = "<img src='x' onerror='alert(1)'>";
+    const firstName = "<img src='x' alt="maliciousImage" onerror='alert(1)'>";
     el.innerHTML = firstName; // displays an alert message
   </script>
     </p>
