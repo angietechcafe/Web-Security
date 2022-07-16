@@ -5,8 +5,9 @@
 <p> One example of cross-site scripting (XSS) can appear when there is weak JavaScript written in "element.innerHMTL". 
     A malicious user can take advantage of this script and input anything inside it. For example they can use put a script such as: </p>
     
-<!--<p> 
-  
-  document.getElementById("myText").innerHTML += "My text just changed!";
-  
-    </p>-->
+<p> 
+  <script> 
+    const firstName = "<img src='x' onerror='alert(1)'>";
+    el.innerHTML = firstName; // displays an alert message
+  </script>
+    </p>
