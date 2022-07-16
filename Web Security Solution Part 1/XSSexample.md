@@ -8,6 +8,8 @@
 <p> 
   <script> 
     const firstName = "<img src='x' alt="maliciousImage" onerror='alert(1)'>";
+      </p>
+ <p>
     el.innerHTML = firstName; // displays an alert message
   </script>
     </p>
